@@ -1,0 +1,3 @@
+﻿  Project1.cpp
+C:\Users\s019465n\source\repos\Project1\Project1\Project1.cpp(121,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\s019465n\source\repos\Project1\x64\Debug\Project1.exe
